@@ -52,7 +52,31 @@ inquirer.prompt([{
     message: 'What are the installation instructions?',
 },
 {
+    type: 'input',
+    name: 'usage',
+    message: 'What are the usage instructions?',
+},
+{
+    type: 'checkbox',
+    name: 'license',
+    message: 'What license would you like?',
+    choices: ['MIT', 'GNU', 'Apache'],
+},
+{
+    type: 'input',
+    name: 'contribution',
+    message: 'What are the instructions for contributing?',
+},
+{
+    type: 'input',
+    name: 'test',
+    message: 'Do you have any tests to add?',
+},
+{
 
+}
+}
+}
 }
 }
 }
