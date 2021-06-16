@@ -36,3 +36,24 @@ ${answers.contribution}.
 Email: ${answers.email}`
 
 // starting prompts for the questions in the terminal
+inquirer.prompt([{
+    type: 'input',
+    name: 'title',
+    message: 'What is the title of the project?',
+},
+{
+    type: 'input',
+    name: 'description',
+    message: 'Description of the project.',
+},
+{
+    type: 'input',
+    name: 'install',
+    message: 'What are the installation instructions?',
+},
+{
+
+}
+}
+}
+}])
