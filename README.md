@@ -1,5 +1,5 @@
 ## README.md Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[Example of deployed application video](https://drive.google.com/file/d/1W-FMSgHjOytjdoO58IHpNqIAydK8s9Ro/view)
+[Example of Deployed Application video](https://drive.google.com/file/d/1W-FMSgHjOytjdoO58IHpNqIAydK8s9Ro/view)
 
 ## Description
 This project creates a command-line application that dynamically generates a professional README.md file from a user's input.
@@ -28,5 +28,5 @@ You can send me a link to your GitHub account and I can add you as a contributor
 ## Tests
 
 ## Questions
-[A link to my gitHub](https://github.com/sarsieg)
+[A link to my GitHub](https://github.com/sarsieg)
 Email: sarah.ac.siegel@gmail.com
