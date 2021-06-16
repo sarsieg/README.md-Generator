@@ -16,3 +16,23 @@ ${answers.description}.
 - [Contribution](#contribution)
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Installation
+${answers.intall}.
+
+## Usage
+${answers.usage}.
+
+## License
+${answers.license}.
+
+## Contribution
+${answers.contribution}.
+
+## Tests
+
+## Questions
+[A link to my gitHub](https://github.com/${answers.gitHub})
+Email: ${answers.email}`
+
+// starting prompts for the questions in the terminal
