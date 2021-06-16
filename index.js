@@ -73,11 +73,15 @@ inquirer.prompt([{
     message: 'Do you have any tests to add?',
 },
 {
+    type: 'input',
+    name: 'gitHub',
+    message: 'What is your gitHub username?',
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'What is an email people can send questions to?'
+}
 
-}
-}
-}
-}
-}
-}
+
 }])
