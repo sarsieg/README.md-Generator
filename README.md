@@ -1,8 +1,8 @@
-## asdf [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## README.md Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description
-asdf.
+This project creates a command-line application that dynamically generates a professional README.md file from a user's input..
 
 ## Table of Contents
 - [Description](#description)
@@ -14,19 +14,19 @@ asdf.
 - [Questions](#questions)
 
 ## Installation
-undefined.
+You must first run npm install in order to install the following npm package dependencies as specified in the package.json, as well as inquirer that will prompt you for inputs..
 
 ## Usage
-asdf.
+When you run node.js that application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub account and your project..
 
 ## License
-.
+MIT.
 
 ## Contribution
-asdf.
+You can send me your GitHub username and I can add you to be a contributor..
 
 ## Tests
 
 ## Questions
-[A link to my gitHub](https://github.com/asdf)
-Email: asdf
+[A link to my gitHub](https://github.com/sarsieg)
+Email: sarah.ac.siegel@gmail.com
