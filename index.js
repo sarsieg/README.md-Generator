@@ -3,8 +3,6 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateREADME = (answers) =>
     `## ${answers.title} [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    ${answers.license}[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 
 
 ## Description
