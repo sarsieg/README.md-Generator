@@ -18,7 +18,7 @@ ${answers.description}.
 - [Questions](#questions)
 
 ## Installation
-${answers.intall}.
+${answers.install}.
 
 ## Usage
 ${answers.usage}.

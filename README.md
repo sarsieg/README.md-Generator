@@ -1,6 +1,4 @@
 ## asdf [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    Apache[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 
 
 ## Description
@@ -22,13 +20,13 @@ undefined.
 asdf.
 
 ## License
-Apache.
+.
 
 ## Contribution
-aff.
+asdf.
 
 ## Tests
 
 ## Questions
-[A link to my gitHub](https://github.com/f)
-Email: f
+[A link to my gitHub](https://github.com/asdf)
+Email: asdf
